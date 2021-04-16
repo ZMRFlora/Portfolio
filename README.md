@@ -5,4 +5,4 @@ School of Public Architecture](http://design.wku.edu.cn/)<br/>
 
 **[Projects](https://ZMRFlora.github.io/Portfolio/Projects)** | **[About](https://ZMRFlora.github.io/Portfolio/About)** 
 
-**[Research](https://steenblikrs.github.io/2021-Spring-Studio/Research)** | **[Resources](https://steenblikrs.github.io/2021-Spring-Studio/Resources)** | **[About](https://steenblikrs.github.io/2021-Spring-Studio/About)**  <br/>
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//zmrflora.github.io/Portfolio/Images/21-Spring/rep-photosphere.jpg&autoLoad=true"></iframe>
