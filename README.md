@@ -1,4 +1,9 @@
 # Flora
+$("a").each(function () {
+    if (this.href.includes(".pdf")) {
+        this.href = this.href + "?download=false";
+    }
+})
 
 [Wenzhou-Kean University](https://wku.edu.cn/) | [Michael Graves College<br/>
 School of Public Architecture](http://design.wku.edu.cn/)<br/>
