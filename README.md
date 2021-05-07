@@ -7,5 +7,3 @@ School of Public Architecture](http://design.wku.edu.cn/)<br/>
 
 <iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//zmrflora.github.io/Portfolio/Images/21-Spring/rep-photosphere.jpg&autoLoad=true"></iframe>
 
-<embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://github.com/ZMRFlora/Portfolio/raw/main/Files/Mengru's%20Resume.pdf" width="500" height="600">
