@@ -19,11 +19,11 @@ School of Public Architecture](http://design.wku.edu.cn/)<br/>
       </td>
    </tr>
   <tr>
-    <td><strong><a href="https://ZMRFlora.github.io/Portfolio/Culinary school">Culinary School</a></strong>  <br/>2020-Summer
+    <td><strong><a href="https://ZMRFlora.github.io/Portfolio/Culinary school">Culinary School</a></strong> <br/>2020-Summer
     </td>
     <td><strong><a href="https://ZMRFlora.github.io/Portfolio/Wangzhai Industrial Park">Wangzhai Industrial Park</a></strong> <br/>2020-Fall
     </td>
-    <td><strong><a href="https://ZMRFlora.github.io/Portfolio/Handshake Building">Handshake Building</a></strong>  </br>2021-Spring
+    <td><strong><a href="https://ZMRFlora.github.io/Portfolio/Handshake Building">Handshake Building</a></strong> </br>2021-Spring
     </td>
     </tr>
 </table>
