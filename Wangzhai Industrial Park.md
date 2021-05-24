@@ -3,7 +3,9 @@
 [Wenzhou-Kean University](https://wku.edu.cn/) | [Michael Graves College<br/>
 School of Public Architecture](http://design.wku.edu.cn/)<br/>
 
-***Projects*** | ***[About](https://ZMRFlora.github.io/Portfolio/About)*** 
+***[Projects](https://ZMRFlora.github.io/Portfolio/Projects)*** | ***[Resume](https://ZMRFlora.github.io/Portfolio/Resume)*** | ***[About](https://ZMRFlora.github.io/Portfolio/About)*** 
+<br>
+
 
 **Wangzhai Industrial Park**
 ![Wangzhai Industrial Park](https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/Wangzhai-1.jpg?raw=true "Wangzhai Industrial Park")
