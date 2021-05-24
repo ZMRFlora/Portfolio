@@ -26,7 +26,7 @@ School of Public Architecture](http://design.wku.edu.cn/)<br/>
 <table>
   <tr>
     <td><a href="https://ZMRFlora.github.io/Portfolio/Culinary school">
-         <img alt="Culinary School" src="https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/20-Summer/Third%20Floor-01.jpg?raw=true" width="270"></a>
+         <img alt="Culinary School" src="https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/20-Summer/Third%20Floor-01.jpg?raw=true" width="300"></a>
       </td>
    </tr>
   <tr>
