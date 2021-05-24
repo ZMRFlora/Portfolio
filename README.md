@@ -1,6 +1,3 @@
-# Portfolio
-Personal portfolio for the collection of some student works.
-
 # Flora
 
 [Wenzhou-Kean University](https://wku.edu.cn/) | [Michael Graves College<br/>
