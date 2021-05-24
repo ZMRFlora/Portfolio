@@ -1,3 +1,11 @@
+# Portfolio | Flora
+
+[Wenzhou-Kean University](https://wku.edu.cn/) | [Michael Graves College<br/>
+School of Public Architecture](http://design.wku.edu.cn/)<br/>
+
+***[Home](https://ZMRFlora.github.io/Portfolio/index)*** | ***[Projects](https://ZMRFlora.github.io/Portfolio/Projects)*** | ***[Resume](https://ZMRFlora.github.io/Portfolio/Resume)*** | **About** 
+<br>
+
 ## Flora | Mengru Zhao
 
 Mengru Zhao(Flora) is a junior student comes from Wenzhou-Kean University, Michael Graves College, School of Public Architecture. Studying architecture for 3 years, she has proposed some design during the studio course and research projects with professors, including urban planning models, on-site brick construction, landscape architecture, and complex program architecture. In addition to public architecture, she also interested in interior design and urban planning, and hopes that she could have more opportunities to explore more expect architectural design in the future.
