@@ -4,4 +4,4 @@ Mengru Zhao(Flora) is a junior student comes from Wenzhou-Kean University, Micha
 
 She was born in Jiaozuo, Henan Province, which is in the central area of China. But after 11 years old, she has moved to Ningbo, Zhejiang Province, which is at the east coast of China. She likes playing badminton, riding bike especially along the lake or the mountain in some natural scenic spot. She also likes traveling and one of her wishes is to travel around the world and explore various places and cultures. 
 
-![Image](https://github.com/ZMRFlora/Portfolio/blob/main/Images/self-photo-gif.gif?raw=tru)
+![Image](https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/self-photo-gif.gif?raw=true)
