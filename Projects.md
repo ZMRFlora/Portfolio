@@ -23,7 +23,7 @@ School of Public Architecture](http://design.wku.edu.cn/)<br/>
     </td>
     <td><strong><a href="https://ZMRFlora.github.io/Portfolio/Wangzhai Industrial Park">Wangzhai Industrial Park</a></strong> <br/>2020-Fall
     </td>
-    <td><strong><a href="https://ZMRFlora.github.io/Portfolio/Handshake Building">Floating</a></strong>  </br> 2021-Spring
+    <td><strong><a href="https://ZMRFlora.github.io/Portfolio/Handshake Building">Floating</a></strong>  </br>2021-Spring
     </td>
     </tr>
 </table>
