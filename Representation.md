@@ -17,6 +17,16 @@ Explore a software called Meshroom to make photogrammetry models of some daily o
 Use Enscape to create more real context for models in order to make an experiencial environment.You can also click on [this](https://api2.enscape3d.com/v1/view/9859f407-64b4-4615-9540-cd774e870b10) link to explore the three-dimensional environment on your web page. 
 
 #### VR/AR
+<img alt="Enscape" src="https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/Repre/Mengru%20Zhao-AS8-1.jpg?raw=true" width="300">
+<br>
+Another good thing of Enscape is to explore a VR experience with VR devices. The above picture is me who are experiencing VR environment using Enscape and professor's VR device. 
+<br>
+
+<img alt="Enscape" src="https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/Repre/Mengru%20Zhao-AS8-3.jpg?raw=true" width="300">
+<br>
+<img alt="Enscape" src="https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/Repre/Mengru%20Zhao_AS8-2.png?raw=true" width="250">
+<br>
+These two images are two AR softwares called Augment and ARLOOPA. The first image is my own model, unfortunately, this software is not allowed to show textures. The second is an example model from the software in the real studio environment. 
 
 
 <br/>
