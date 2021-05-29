@@ -39,7 +39,6 @@
     <td><a href="https://ZMRFlora.github.io/Portfolio/Photograph">
          <img alt="Photograph" src="https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/Photograph/53077cb25d31e74b1fd99b977bf8f47.jpg?raw=true" width="300"></a>
       </td>
-
    </tr>
   <tr>
     <td><strong><a href="https://ZMRFlora.github.io/Portfolio/Representation">Representation</a></strong> <br/>2021-Spring
@@ -47,7 +46,7 @@
     <td><strong><a href="https://ZMRFlora.github.io/Portfolio/Photograph">Photograph</a></strong> <br/>
     </td>
 </table>
-<br/>
 
+<br/>
 [Wenzhou-Kean University](https://wku.edu.cn/) | [Michael Graves College<br/>
 School of Public Architecture](http://design.wku.edu.cn/)<br/>
