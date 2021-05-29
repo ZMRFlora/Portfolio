@@ -5,7 +5,7 @@
 <br>
 This project mainly focuses on the problem of handshake buildings in the village in the city, proposed a renovation design based on one single building in the Gangxia Village in Shenzhen. The proposal wants to solve the problem of poor living conditions and a less healthy studying environment of kindergarten due to the high density in the urban village.
 <br>
-If you are interested in more details about this project, please click on [this](https://w03travelstudio.wordpress.com/2021/05/07/the-handshaking-building/) blog to look through more process. 
+If you are interested in more details about this project, please click on [this](https://w03travelstudio.wordpress.com/2021/05/07/the-handshaking-building/) blog to look through more process. Other students' works could click on [this](https://w03travelstudio.wordpress.com/) link. 
 
 
 
