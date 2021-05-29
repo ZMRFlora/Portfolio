@@ -9,7 +9,6 @@
     <td><a href="https://ZMRFlora.github.io/Portfolio/Wangzhai Industrial Park">
          <img alt="Wangzhai Industrial Park" src="https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/B-F1-01.jpg?raw=true" width="300"></a>
       </td>
-
    </tr>
   <tr>
     <td><strong><a href="https://ZMRFlora.github.io/Portfolio/Culinary school">Culinary School</a></strong> <br/>2020-Summer
@@ -47,6 +46,6 @@
     </td>
 </table>
 
-<br><br>
+<br>
 [Wenzhou-Kean University](https://wku.edu.cn/) | [Michael Graves College](http://design.wku.edu.cn/)<br/>
 [School of Public Architecture](http://design.wku.edu.cn/)<br>
