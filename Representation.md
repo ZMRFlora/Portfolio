@@ -24,6 +24,7 @@ Another good thing of Enscape is to explore a VR experience with VR devices. The
 
 <img alt="Enscape" src="https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/Repre/Mengru%20Zhao-AS8-3.jpg?raw=true" width="300">
 <br>
+
 <img alt="Enscape" src="https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/Repre/Mengru%20Zhao_AS8-2.png?raw=true" width="250">
 <br>
 These two images are two AR softwares called Augment and ARLOOPA. The first image is my own model, unfortunately, this software is not allowed to show textures. The second is an example model from the software in the real studio environment. 
