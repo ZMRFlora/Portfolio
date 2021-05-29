@@ -2,6 +2,7 @@
 
 <br>
 <img alt="Wangzhai Industrial Park" src="https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/exploded%20axono-02.png?raw=true" width="600">
+
 <br>
 [Wenzhou-Kean University](https://wku.edu.cn/) | [Michael Graves College<br/>
 School of Public Architecture](http://design.wku.edu.cn/)<br/>
