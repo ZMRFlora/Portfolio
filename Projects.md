@@ -47,6 +47,6 @@
     </td>
 </table>
 
-<br/>
+<br><br>
 [Wenzhou-Kean University](https://wku.edu.cn/) | [Michael Graves College](http://design.wku.edu.cn/)<br/>
-[School of Public Architecture](http://design.wku.edu.cn/)<br/>
+[School of Public Architecture](http://design.wku.edu.cn/)<br>
