@@ -1,8 +1,3 @@
-# Portfolio | Flora
-
-[Wenzhou-Kean University](https://wku.edu.cn/) | [Michael Graves College<br/>
-School of Public Architecture](http://design.wku.edu.cn/)<br/>
-
 ***[Home](https://ZMRFlora.github.io/Portfolio/index)*** | ***[Projects](https://ZMRFlora.github.io/Portfolio/Projects)*** | ***[Resume](https://ZMRFlora.github.io/Portfolio/Resume)*** | ***[About](https://ZMRFlora.github.io/Portfolio/About)*** 
 <br>
 <br>
@@ -19,6 +14,8 @@ School of Public Architecture](http://design.wku.edu.cn/)<br/>
 <br>
 ![Culinary School](https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/20-Summer/Culinary%20school-section-screenshot.jpg?raw=true "Section")
 <br>
+![Culinary School](https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/20-Summer/Elevation.jpg?raw=true "Elevation")
+<br>
 ![Culinary School](https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/20-Summer/Culinary%20school-axono.jpg?raw=true "Axonometric")
 <br>
 ![Culinary School](https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/20-Summer/Culinary%20school-rendering.jpg?raw=true "Interior Rendering")
@@ -26,3 +23,6 @@ School of Public Architecture](http://design.wku.edu.cn/)<br/>
 - Site Location: Ningbo, Zhejiang, China
 - Description: The concept of culinary school is based on a local dish in Ningbo City, Zhejiang Province, called Stir-fried Portunus Crab with Rice Cake. The form derived from the stone mill the could be considered as a symbolic tool of making rice cake in such traditional way, especially the central spiral ramp as the main circulation. Both the dormitory and classroom design want to make the process of learning collking more public and socially interactive. 
 
+<br>
+[Wenzhou-Kean University](https://wku.edu.cn/) | [Michael Graves College<br/>
+School of Public Architecture](http://design.wku.edu.cn/)<br/>
