@@ -12,7 +12,6 @@
     <td style="border: none;"><a href="https://ZMRFlora.github.io/Portfolio/Wangzhai Industrial Park"><b>Wangzhai Industrial Park</b></a></td>
   </tr></table>
 <br/>
-
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none;"><a href="https://ZMRFlora.github.io/Portfolio/Handshake Building"><img alt="Handshake Building" src="https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/Residence-Floor%20Plan-01.jpg?raw=true" width="300"></a></td>
