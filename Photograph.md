@@ -1,6 +1,23 @@
 ***[Home](https://ZMRFlora.github.io/Portfolio/index)*** | ***[Projects](https://ZMRFlora.github.io/Portfolio/Projects)*** | ***[Resume](https://ZMRFlora.github.io/Portfolio/Resume)*** | ***[About](https://ZMRFlora.github.io/Portfolio/About)*** 
 <br>
 
+
+
+<img alt="The Louvre" src="https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/Photograph/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210531144836.jpg?raw=true" width="500">
+<br>
+Photographed at ***Louvre Museum in Paris***, July 10, 2019. 
+<br>
+
+<img alt="Suzhou Museum" src="https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/Photograph/Suzhou%20museum%20-2.jpg?raw=true" width="500">
+<br>
+Photographed at ***Suzhou Museum***, September 28, 2019. 
+<br>
+
+<img alt="Suzhou Museum" src="https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/Photograph/suzhou%20museum%20-1.jpg?raw=true" width="500">
+<br>
+Photographed at ***Suzhou Museum***, September 28, 2019. 
+<br>
+
 <img alt="Ningbo Museum" src="https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/Photograph/358b4d3b51f7eef37ba38bb39d812a7.jpg?raw=true" width="500">
 <br>
 Photographed at ***Ningbo Museum***, May 23, 2020. 
@@ -46,4 +63,3 @@ Photographed at ***The Forbidden City in Beijing***, December 23, 2020.
 
 [Wenzhou-Kean University](https://wku.edu.cn/) | [Michael Graves College](http://design.wku.edu.cn/)<br/>
 [School of Public Architecture](http://design.wku.edu.cn/)<br>
-
