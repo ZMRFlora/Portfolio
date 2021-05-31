@@ -20,7 +20,6 @@
     <td style="border: none;"><a href="https://ZMRFlora.github.io/Portfolio/Handshake Building"><b>Handshake Building</b></a></td>
   </tr></table>
 <br/>
-
 #### Other Works
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
