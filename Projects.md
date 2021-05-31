@@ -1,6 +1,7 @@
 ***[Home](https://ZMRFlora.github.io/Portfolio/index)*** | **Projects** | ***[Resume](https://ZMRFlora.github.io/Portfolio/Resume)*** | ***[About](https://ZMRFlora.github.io/Portfolio/About)*** 
 <br>
 
+#### Studio Projects
 <table>
   <tr>
     <td><a href="https://ZMRFlora.github.io/Portfolio/Culinary school">
@@ -30,6 +31,7 @@
 </table>
 <br/>
 
+#### Other Works
 <table>
   <tr>
     <td><a href="https://ZMRFlora.github.io/Portfolio/Representation">
