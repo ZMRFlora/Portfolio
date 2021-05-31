@@ -13,8 +13,6 @@
   </tr></table>
 <br/><br/>
 
-
-
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none;"><a href="https://ZMRFlora.github.io/Portfolio/Handshake Building"><img alt="Handshake Building" src="https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/Residence-Floor%20Plan-01.jpg?raw=true" width="300"></a></td>
@@ -23,7 +21,6 @@
     <td style="border: none;"><a href="https://ZMRFlora.github.io/Portfolio/Handshake Building"><b>Handshake Building</b></a></td>
   </tr></table>
 <br/><br/>
-
 
 #### Other Works
 <table style="width:100%; border-collapse: collapse; border: none;">
