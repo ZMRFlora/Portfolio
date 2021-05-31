@@ -11,7 +11,7 @@
     <td style="border: none;"><a href="https://ZMRFlora.github.io/Portfolio/Culinary school"><b>Culinary School</b></a></td>
     <td style="border: none;"><a href="https://ZMRFlora.github.io/Portfolio/Wangzhai Industrial Park"><b>Wangzhai Industrial Park</b></a></td>
   </tr></table>
-<br/><br/>
+<br/>
 
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -20,7 +20,7 @@
   </tr><tr style="border: none;">
     <td style="border: none;"><a href="https://ZMRFlora.github.io/Portfolio/Handshake Building"><b>Handshake Building</b></a></td>
   </tr></table>
-<br/><br/>
+<br/>
 
 #### Other Works
 <table style="width:100%; border-collapse: collapse; border: none;">
@@ -32,7 +32,7 @@
     <td style="border: none;"><a href="https://ZMRFlora.github.io/Portfolio/Representation"><b>Representation</b></a></td>
     <td style="border: none;"><a href="https://ZMRFlora.github.io/Portfolio/Photograph"><b>Photograph</b></a></td>
   </tr></table>
-<br/><br/>
+<br/>
 
 [Wenzhou-Kean University](https://wku.edu.cn/) | [Michael Graves College](http://design.wku.edu.cn/)<br/>
 [School of Public Architecture](http://design.wku.edu.cn/)<br>
