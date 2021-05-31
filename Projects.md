@@ -44,8 +44,7 @@
     </td>
     <td><strong><a href="https://ZMRFlora.github.io/Portfolio/Photograph">Photograph</a></strong> <br/>
     </td>
-</table>
+</table><br>
 
-<br>
 [Wenzhou-Kean University](https://wku.edu.cn/) | [Michael Graves College](http://design.wku.edu.cn/)<br/>
 [School of Public Architecture](http://design.wku.edu.cn/)<br>
