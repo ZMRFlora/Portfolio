@@ -6,10 +6,13 @@
 <br>
 Start from the concept, use some digital tools such as [deepart.io](https://deepart.io/img/rJrAhq7D/), [DEEP DREAM GENERATOR](https://deepdreamgenerator.com/generator), and [artbreeder](https://www.artbreeder.com/) to generate more creative and abstract images that express the stacking and modules idea. 
 
-#### Photogeometry
+#### Photogrammetry
 <img alt="Photogeometry" src="https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/Repre/meshroom.gif?raw=true" width="300">
 <br>
 Explore a software called Meshroom to make photogrammetry models of some daily objects. The goal is to create detailed and complex textures from the object. 
+
+#### Photosphere
+<iframe width="600" height="400" allowfullscreen style="border-style:none;" src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama=https%3A//raw.githubusercontent.com/ZMRFlora/Portfolio/gh-pages/Images/Repre/Photosphere.jpg&autoLoad=true"></iframe>
 
 #### Enscape
 <img alt="Enscape" src="https://github.com/ZMRFlora/Portfolio/blob/gh-pages/Images/Repre/Enscape.gif?raw=true" width="500">
